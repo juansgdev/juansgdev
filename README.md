@@ -10,7 +10,7 @@
   </td>
 </table>
 
-<table>
+<table align=center>
   <tr>
     <td>
       <img width=300 src="https://github.com/user-attachments/assets/bfa3ad99-7370-405d-878e-ff4c4ce40866">
