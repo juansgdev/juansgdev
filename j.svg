@@ -93,6 +93,24 @@
                         padding: 2px 6px ;
                     }
 
+                    main {
+                        width: max-content;
+                        max-width: 90%;
+                        margin: 20px 0;
+                        margin-left: 30px;
+                        display: flex;
+                        background: #1c1c1c;
+                        border: gray 1px solid;
+                        border-radius: 8px;
+                    }
+                    main span {
+                        width: max-content;
+                        font-size:18px;
+                        font-weight: 500;
+                        letter-spacing: 2px;
+                        padding: 2px 6px ;
+                    }
+
                     
 
                     .tech {
@@ -164,23 +182,6 @@
                         .guy {
                              width: 100%;
                         }
-                    }
-                    .study {
-                        width: max-content;
-                        max-width: 90%;
-                        margin: 20px 0;
-                        margin-left: 30px;
-                        display: flex;
-                        background: #1c1c1c;
-                        border: gray 1px solid;
-                        border-radius: 8px;
-                    }
-                    .study span {
-                        width: max-content;
-                        font-size:18px;
-                        font-weight: 500;
-                        letter-spacing: 2px;
-                        padding: 2px 6px ;
                     }
                     p::after {
                             content: "Estudo desenvolvimento de software focado no ambiente web. Como desenvolvedor, procuro resolver problemas de maneira prática e estruturada. Atualmente busco me aprimorar em diversos tópicos da programação como assincronismo, estruturas de dados e algoritmos e também o desenvolvimento backend.";
