@@ -147,7 +147,11 @@
                         }
                         section {
                             background: white;
-                            border: black;
+                            border: black 2px solid;
+                        }
+                        .study {
+                            background: white;
+                            border: black 2px solid;
                         }
                     }
                     @media (max-width: 500px) {
